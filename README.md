@@ -69,6 +69,7 @@ app.py             →  Streamlit UI for asking and displaying answers
     "image_url": "https://.../drone.gif"
   }
 }
+```
 
 ---
 
