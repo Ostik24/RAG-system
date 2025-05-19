@@ -42,6 +42,7 @@ chunker.py         →  Splits content into semantically meaningful chunks
 embedder.py        →  Embeds and stores chunks in Chroma vector DB
 rag_chain.py       →  Retrieves + reasons using Gemini and LangChain
 app.py             →  Streamlit UI for asking and displaying answers
+```
 
 ---
 
