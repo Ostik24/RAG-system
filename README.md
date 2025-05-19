@@ -83,6 +83,6 @@ Answer Correctness - 0.49 - Mixed factual accuracy
 ---
 
 ## Demo video
-Watch the [video](https://drive.google.com/file/d/14DgQkKIFMBZIeDk6hfSNwmUYWE3VFeOF/view?usp=sharing)
+Watch the [video](https://drive.google.com/file/d/14DgQkKIFMBZIeDk6hfSNwmUYWE3VFeOF/view?usp=sharing).
 
 ---
